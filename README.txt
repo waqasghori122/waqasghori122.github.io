@@ -1,0 +1,1 @@
+OmniCalc multi-page site. Upload every file to the repository root. GitHub accepts up to 100 files per upload, so upload in two or more batches. Keep googlefc04d3bca80601fc.html (Google verification).
